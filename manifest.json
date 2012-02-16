@@ -1,0 +1,8 @@
+{
+  "background_page": "background.html",
+  "description": "Look up Internet RFCs",
+  "name": "RFC Lookup",
+  "omnibox": { "keyword" : "rfc" },
+  "version": "0.1",
+  "permissions": [ "tabs" ]
+}
