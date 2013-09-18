@@ -1,8 +1,9 @@
 {
-  "background_page": "background.html",
-  "description": "Look up Internet RFCs",
-  "name": "RFC Lookup",
-  "omnibox": { "keyword" : "rfc" },
+  "manifest_version": 2,
+  "background": { "page": "background.html" },
+  "description": "Lexicanum Lookup",
+  "name": "Lexicanum Lookup",
+  "omnibox": { "keyword" : "lex" },
   "version": "0.1",
   "permissions": [ "tabs" ]
 }
